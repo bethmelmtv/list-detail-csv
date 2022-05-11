@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.film-data {
+  background-color: azure;
+}
+
+.film-item {
+  background-color: #61dafb;
+  margin: 20px;
+  border-radius: 20px;
+}
